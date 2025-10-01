@@ -59,8 +59,7 @@ Here's a complete list of my repositories, grouped by theme for easy navigation:
 - [Battlesnake-FloodFill-Python](https://github.com/justinjimilner/Battlesnake-FloodFill-Python): Python Battlesnake game with FloodFill algorithm.
 
 ## Contact Me
-- 📫 Email: justinjmilner@gmail.com
+- 📫 Email: justinjamesmilner@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/justinjmilner](https://linkedin.com/in/justinjmilner)
-- 🐦 X/Twitter: [@justinmilner390](https://x.com/justinmilner390)
 
 Thanks for visiting! Open to collaborations or discussions on tech projects. 🚀
