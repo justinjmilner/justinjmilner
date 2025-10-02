@@ -28,37 +28,37 @@ These showcase my technical and project management skills—check the repos for 
 Here's a complete list of my repositories, grouped by theme for easy navigation:
 
 ### Project Management / AWS Migration
-- [Enterprise-Software-AWS-Cloud-Migration](https://github.com/justinjimilner/Enterprise-Software-AWS-Cloud-Migration): AWS cloud migration project with PM focus.
+- [Enterprise-Software-AWS-Cloud-Migration](https://github.com/justinjmilner/Enterprise-Software-AWS-Cloud-Migration): AWS cloud migration project with PM focus.
 
 ### AI/ML & Data Science
-- [AI-ML-Projects-Collection](https://github.com/justinjimilner/AI-ML-Projects-Collection): CS50-inspired AI projects in Python.
-- [Financial-Data-Analytics](https://github.com/justinjimilner/Financial-Data-Analytics): ML model for stock prediction.
-- [Data-Analytics](https://github.com/justinjimilner/Data-Analytics): Data sourcing and visualization projects.
-- [Data-Mining](https://github.com/justinjimilner/Data-Mining): Data cleaning and processing explorations.
+- [AI-ML-Projects-Collection](https://github.com/justinjmilner/AI-ML-Projects-Collection): CS50-inspired AI projects in Python.
+- [Financial-Data-Analytics](https://github.com/justinjmilner/Financial-Data-Analytics): ML model for stock prediction.
+- [Data-Analytics](https://github.com/justinjmilner/Data-Analytics): Data sourcing and visualization projects.
+- [Data-Mining](https://github.com/justinjmilner/Data-Mining): Data cleaning and processing explorations.
 
 ### Web & Full-Stack Development
-- [Web-Development-Projects](https://github.com/justinjimilner/Web-Development-Projects): Full-stack web projects inspired by CS50W (Python-based).
-- [Responsive-Web-Design-Learning-Journey](https://github.com/justinjimilner/Responsive-Web-Design-Learning-Journey): HTML/CSS/JS projects for responsive design.
-- [Ethereum-Full-Stack-Voting-dApp](https://github.com/justinjimilner/Ethereum-Full-Stack-Voting-dApp): Decentralized voting app with Solidity backend and TypeScript frontend.
+- [Web-Development-Projects](https://github.com/justinjmilner/Web-Development-Projects): Full-stack web projects inspired by CS50W (Python-based).
+- [Responsive-Web-Design-Learning-Journey](https://github.com/justinjmilner/Responsive-Web-Design-Learning-Journey): HTML/CSS/JS projects for responsive design.
+- [Ethereum-Full-Stack-Voting-dApp](https://github.com/justinjmilner/Ethereum-Full-Stack-Voting-dApp): Decentralized voting app with Solidity backend and TypeScript frontend.
 
 ### Blockchain & Smart Contracts
-- [Tokenized-Voting-Ballot](https://github.com/justinjimilner/Tokenized-Voting-Ballot): Blockchain-based secure voting system.
-- [Solidity-Ballot-Testing-Functions](https://github.com/justinjimilner/Solidity-Ballot-Testing-Functions): Group project for on-chain Ethereum voting dApp.
-- [Ethereum-Gas-Optimization-Testing](https://github.com/justinjimilner/Ethereum-Gas-Optimization-Testing): Scripts optimizing gas for Ethereum contracts.
-- [Solidity-and-TypeScript-Lottery-Scripts](https://github.com/justinjimilner/Solidity-and-TypeScript-Lottery-Scripts): Decentralized lottery smart contracts.
-- [TypeScript-and-Solidity-Learning-Playground](https://github.com/justinjimilner/TypeScript-and-Solidity-Learning-Playground): Experimentation with Solidity and TypeScript syntax.
+- [Tokenized-Voting-Ballot](https://github.com/justinjmilner/Tokenized-Voting-Ballot): Blockchain-based secure voting system.
+- [Solidity-Ballot-Testing-Functions](https://github.com/justinjmilner/Solidity-Ballot-Testing-Functions): Group project for on-chain Ethereum voting dApp.
+- [Ethereum-Gas-Optimization-Testing](https://github.com/justinjmilner/Ethereum-Gas-Optimization-Testing): Scripts optimizing gas for Ethereum contracts.
+- [Solidity-and-TypeScript-Lottery-Scripts](https://github.com/justinjmilner/Solidity-and-TypeScript-Lottery-Scripts): Decentralized lottery smart contracts.
+- [TypeScript-and-Solidity-Learning-Playground](https://github.com/justinjmilner/TypeScript-and-Solidity-Learning-Playground): Experimentation with Solidity and TypeScript syntax.
 
 ### Systems & Low-Level Programming
 - [Database_Programming](https://github.com/justinjimilner/Database_Programming): PostgreSQL backend implementation in Python.
 - [Operating_Systems](https://github.com/justinjimilner/Operating_Systems): OS programming projects in C.
 - [Computer-Networks](https://github.com/justinjimilner/Computer-Networks): Programs for learning network communication (Python).
-- [Assembly-Learning-Projects](https://github.com/justinjimilner/Assembly-Learning-Projects): Beginner assembly code projects.
-- [Algorithm-Design-Practice-Scripts](https://github.com/justinjimilner/Algorithm-Design-Practice-Scripts): Search/sort algorithms from scratch in Java.
+- [Assembly-Learning-Projects](https://github.com/justinjmilner/Assembly-Learning-Projects): Beginner assembly code projects.
+- [Algorithm-Design-Practice-Scripts](https://github.com/justinjmilner/Algorithm-Design-Practice-Scripts): Search/sort algorithms from scratch in Java.
 
 ### Other/Foundational
-- [CS50-Learning-Journey](https://github.com/justinjimilner/CS50-Learning-Journey): Scripts and projects from Harvard's CS50 (C-based).
-- [Java-School-Projects](https://github.com/justinjimilner/Java-School-Projects): OOP fundamentals in Java.
-- [Battlesnake-FloodFill-Python](https://github.com/justinjimilner/Battlesnake-FloodFill-Python): Python Battlesnake game with FloodFill algorithm.
+- [CS50-Learning-Journey](https://github.com/justinjmilner/CS50-Learning-Journey): Scripts and projects from Harvard's CS50 (C-based).
+- [Java-School-Projects](https://github.com/justinjmilner/Java-School-Projects): OOP fundamentals in Java.
+- [Battlesnake-FloodFill-Python](https://github.com/justinjmilner/Battlesnake-FloodFill-Python): Python Battlesnake game with FloodFill algorithm.
 
 ## Contact Me
 - 📫 Email: justinjamesmilner@gmail.com
