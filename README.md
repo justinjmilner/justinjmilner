@@ -1,4 +1,4 @@
-# Justin Milner 👋
+# Justin Milner 
 
 I'm a recent Computer Science graduate from the University of Victoria (B.Sc., GPA 3.36/4.0) with a passion for project management, data analytics, and building scalable tech solutions. Skilled in stakeholder communication, cross-functional team leadership, and implementing tools like SQL, Python, AWS, and AI integrations. I've founded a business (Nu'all Properties, achieving 20%+ YoY revenue growth) and have hands-on experience in process optimization, including a 25% improvement in team response efficiency at BC Public Service.
 
@@ -64,4 +64,4 @@ Here's a complete list of my repositories, grouped by theme for easy navigation:
 - Email: justinjamesmilner@gmail.com
 - LinkedIn: [linkedin.com/in/justinjmilner](https://linkedin.com/in/justinjmilner)
 
-Thanks for visiting! Open to collaborations or discussions on tech projects. 🚀
+Thanks for visiting! Open to collaborations or discussions on tech projects. 
