@@ -27,6 +27,9 @@ These showcase my technical and project management skills—check the repos for 
 ## All Projects
 Here's a complete list of my repositories, grouped by theme for easy navigation:
 
+### Project Management / AWS Migration
+- [Enterprise-Software-AWS-Cloud-Migration](https://github.com/justinjimilner/Enterprise-Software-AWS-Cloud-Migration): AWS cloud migration project with PM focus.
+
 ### AI/ML & Data Science
 - [AI-ML-Projects-Collection](https://github.com/justinjimilner/AI-ML-Projects-Collection): CS50-inspired AI projects in Python.
 - [Financial-Data-Analytics](https://github.com/justinjimilner/Financial-Data-Analytics): ML model for stock prediction.
@@ -53,7 +56,6 @@ Here's a complete list of my repositories, grouped by theme for easy navigation:
 - [Algorithm-Design-Practice-Scripts](https://github.com/justinjimilner/Algorithm-Design-Practice-Scripts): Search/sort algorithms from scratch in Java.
 
 ### Other/Foundational
-- [Enterprise-Software-AWS-Cloud-Migration](https://github.com/justinjimilner/Enterprise-Software-AWS-Cloud-Migration): AWS cloud migration project with PM focus.
 - [CS50-Learning-Journey](https://github.com/justinjimilner/CS50-Learning-Journey): Scripts and projects from Harvard's CS50 (C-based).
 - [Java-School-Projects](https://github.com/justinjimilner/Java-School-Projects): OOP fundamentals in Java.
 - [Battlesnake-FloodFill-Python](https://github.com/justinjimilner/Battlesnake-FloodFill-Python): Python Battlesnake game with FloodFill algorithm.
