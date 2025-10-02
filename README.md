@@ -12,17 +12,17 @@ Currently seeking internships in Business Analysis, Technical Product Management
 ## Key Projects (Pinned Highlights)
 These showcase my technical and project management skills—check the repos for code, READMEs, and demos!
 
-- **[Enterprise-Software-AWS-Cloud-Migration](https://github.com/justinjimilner/Enterprise-Software-AWS-Cloud-Migration)**: Led the migration of an enterprise app from legacy Appery.io to AWS Amplify serverless architecture. Implemented offline-first functionality for field operations, multi-user access, and scalable data processing. Demonstrates PM skills in requirements elicitation and cloud integrations.
+- **[Enterprise-Software-AWS-Cloud-Migration](https://github.com/justinjmilner/Enterprise-Software-AWS-Cloud-Migration)**: Led the migration of an enterprise app from legacy Appery.io to AWS Amplify serverless architecture. Implemented offline-first functionality for field operations, multi-user access, and scalable data processing. Demonstrates PM skills in requirements elicitation and cloud integrations.
   
-- **[Financial-Data-Analytics](https://github.com/justinjimilner/Financial-Data-Analytics)**: Built a machine learning model to predict stock price movements using historical Dow Jones data. Achieved 1.95% predictive accuracy for forecasting changes—tested profitability for trading scenarios. Highlights data sourcing, transformation, and ML application.
+- **[Financial-Data-Analytics](https://github.com/justinjmilner/Financial-Data-Analytics)**: Built a machine learning model to predict stock price movements using historical Dow Jones data. Achieved 1.95% predictive accuracy for forecasting changes—tested profitability for trading scenarios. Highlights data sourcing, transformation, and ML application.
 
-- **[Data-Analytics](https://github.com/justinjimilner/Data-Analytics)**: Collection of projects demonstrating skills in sourcing, transforming, and visualizing measurement data. Includes real-world analysis pipelines using Python and visualization tools.
+- **[Data-Analytics](https://github.com/justinjmilner/Data-Analytics)**: Collection of projects demonstrating skills in sourcing, transforming, and visualizing measurement data. Includes real-world analysis pipelines using Python and visualization tools.
 
 - **[AI-ML-Projects-Collection](https://github.com/justinjimilner/AI-ML-Projects-Collection)**: Diverse AI projects inspired by CS50 AI, covering topics like search algorithms, optimization, and neural networks. All implemented in Python to solve practical problems.
 
-- **[Data-Mining](https://github.com/justinjimilner/Data-Mining)**: Projects focused on data cleaning, processing, and visualization techniques. Explored real datasets to derive insights and build efficient pipelines.
+- **[Data-Mining](https://github.com/justinjmilner/Data-Mining)**: Projects focused on data cleaning, processing, and visualization techniques. Explored real datasets to derive insights and build efficient pipelines.
 
-- **[Database_Programming](https://github.com/justinjimilner/Database_Programming)**: Implemented a full backend-to-frontend database using PostgreSQL and psycopg2 in Python. Covers schema design, queries, and integration for scalable apps.
+- **[Database_Programming](https://github.com/justinjmilner/Database_Programming)**: Implemented a full backend-to-frontend database using PostgreSQL and psycopg2 in Python. Covers schema design, queries, and integration for scalable apps.
 
 ## All Projects
 Here's a complete list of my repositories, grouped by theme for easy navigation:
