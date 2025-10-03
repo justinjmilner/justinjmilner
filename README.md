@@ -18,7 +18,7 @@ These showcase my technical and project management skills—check the repos for 
 
 - **[Data-Analytics](https://github.com/justinjmilner/Data-Analytics)**: Collection of projects demonstrating skills in sourcing, transforming, and visualizing measurement data. Includes real-world analysis pipelines using Python and visualization tools.
 
-- **[AI-ML-Projects-Collection](https://github.com/justinjimilner/AI-ML-Projects-Collection)**: Diverse AI projects inspired by CS50 AI, covering topics like search algorithms, optimization, and neural networks. All implemented in Python to solve practical problems.
+- **[AI-ML-Projects-Collection](https://github.com/justinjmilner/AI-ML-Projects-Collection)**: Diverse AI projects inspired by CS50 AI, covering topics like search algorithms, optimization, and neural networks. All implemented in Python to solve practical problems.
 
 - **[Data-Mining](https://github.com/justinjmilner/Data-Mining)**: Projects focused on data cleaning, processing, and visualization techniques. Explored real datasets to derive insights and build efficient pipelines.
 
@@ -49,9 +49,9 @@ Here's a complete list of my repositories, grouped by theme for easy navigation:
 - [TypeScript-and-Solidity-Learning-Playground](https://github.com/justinjmilner/TypeScript-and-Solidity-Learning-Playground): Experimentation with Solidity and TypeScript syntax.
 
 ### Systems & Low-Level Programming
-- [Database_Programming](https://github.com/justinjimilner/Database_Programming): PostgreSQL backend implementation in Python.
-- [Operating_Systems](https://github.com/justinjimilner/Operating_Systems): OS programming projects in C.
-- [Computer-Networks](https://github.com/justinjimilner/Computer-Networks): Programs for learning network communication (Python).
+- [Database_Programming](https://github.com/justinjmilner/Database_Programming): PostgreSQL backend implementation in Python.
+- [Operating_Systems](https://github.com/justinjmilner/Operating_Systems): OS programming projects in C.
+- [Computer-Networks](https://github.com/justinjmilner/Computer-Networks): Programs for learning network communication (Python).
 - [Assembly-Learning-Projects](https://github.com/justinjmilner/Assembly-Learning-Projects): Beginner assembly code projects.
 - [Algorithm-Design-Practice-Scripts](https://github.com/justinjmilner/Algorithm-Design-Practice-Scripts): Search/sort algorithms from scratch in Java.
 
