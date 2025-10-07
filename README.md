@@ -22,6 +22,8 @@ These showcase my technical and project management skills—check the repos for 
 
 - **[Data-Mining](https://github.com/justinjmilner/Data-Mining)**: Projects focused on data cleaning, processing, and visualization techniques. Explored real datasets to derive insights and build efficient pipelines.
 
+- **[Construction-Project-Analytics-Automation](https://github.com/justinjmilner/Construction-Project-Analytics-Automation)**: Automated end-to-end data pipeline converting messy Excel construction data into Power BI analytics with daily auto-refresh via SharePoint. Demonstrates Power Query transformations, Power Automate integration, and business intelligence automation.
+
 - **[Database_Programming](https://github.com/justinjmilner/Database_Programming)**: Implemented a full backend-to-frontend database using PostgreSQL and psycopg2 in Python. Covers schema design, queries, and integration for scalable apps.
 
 ## All Projects
